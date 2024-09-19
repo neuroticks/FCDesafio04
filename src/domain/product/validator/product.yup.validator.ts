@@ -35,3 +35,6 @@ export default class ProductYupValidator
     }
   }
 }
+// Fato é que já fiz dessa maneira no desafio anterior... 
+// então agora fiquei sem saber se voltar no outro desafio e regredir a lógica
+// mas vou esperar retornarem a correção.
